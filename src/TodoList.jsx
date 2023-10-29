@@ -97,7 +97,7 @@ function TodoList() {
 						</svg>
 					</button>
 				
-				<h1>To Do App</h1>
+				<h1>ToDo App</h1>
 			</div>
 
 			{separateTodos().importantTodos.length > 0 ? (
