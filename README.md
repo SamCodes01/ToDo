@@ -18,8 +18,8 @@ Welcome to the ToDo React Application! This is a simple and slick design, perfec
 
 ## 📸 Screenshots
 
-![ToDo App Screenshot 1](/screenshots/screenshot1.png)
-![ToDo App Screenshot 2](/screenshots/screenshot2.png)
+![ToDo App Screenshot 1](/images/screenshot1.png)
+![ToDo App Screenshot 2](/images/screenshot2.png)
 
 ## 📦 Technologies Used
 
